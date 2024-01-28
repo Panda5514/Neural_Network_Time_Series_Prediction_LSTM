@@ -1,5 +1,6 @@
 # LSTM Neural Network for Time Series Prediction
 Author: panda
+
 LSTM built using the Keras Python package to predict time series steps and sequences. Includes sine wave and stock market data.
 
 [Full article write-up for this code](https://www.altumintelligence.com/articles/a/Time-Series-Prediction-Using-LSTM-Deep-Neural-Networks)
